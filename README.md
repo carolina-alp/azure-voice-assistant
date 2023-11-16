@@ -31,8 +31,8 @@ Utiliza Azure Text Analytics para resumir texto y reconocer entidades, centránd
 
 Utiliza:
 
-* Para resumir: `sample_extractive_summarization()`, para resumir
-* `entity_recognition_example(document)`, para reconocimiento de entidades:
+* `sample_extractive_summarization()`, para resumir.
+* `entity_recognition_example(document)`, para reconocimiento de entidades.
 
 5. **Síntesis de texto a voz**
 
@@ -53,7 +53,7 @@ Seguridad del contenido: CONTENT_SAFETY_KEY y CONTENT_SAFETY_ENDPOINT en el arch
 API: API_GOOGLE_KEY en el archivo .env.
 Análisis de texto: LANGUAGE_KEY y LANGUAGE_ENDPOINT en el archivo .env.
 ## Ejecución
-Se debe comenzar la pregunta con la palabra de activación "Coco" seguida de su consulta.
+Se debe comenzar la pregunta con la palabra de activación "Coco" seguida de la consulta.
 Se debe tener cuidado de que las claves API, estas no deben estar expuestas.
 
 
